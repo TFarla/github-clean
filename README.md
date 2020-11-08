@@ -16,7 +16,11 @@ https://github.com/settings/tokens/new
 # Running the app
 Download the cli app from the [releases](https://github.com/TFarla/github-clean/releases) if one is present for your platform.
 
-Make sure [python3](https://www.python.org/downloads/) is installed on your machine
+```
+clean <token>
+```
+
+Otherwise make sure [python3](https://www.python.org/downloads/) is installed on your machine
 
 ```sh
 pip install -r requirements.txt
